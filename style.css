@@ -55,6 +55,7 @@
   flex-direction: column;
   justify-content: space-between;
   background-color: rgb(39, 38, 38);
+  overflow-y: scroll;
 }
 .header {
   display: flex;
